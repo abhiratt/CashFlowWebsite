@@ -41,11 +41,6 @@ $('#menu-left #menu-toggle').on('click', function(event) {
 //Initiat WOW JS
 new WOW().init();
 
-//Notify me 
-
-$("#notifyMe").notifyMe();
-
-
 // screenshots carousel
 $(document).ready(function() {
 
